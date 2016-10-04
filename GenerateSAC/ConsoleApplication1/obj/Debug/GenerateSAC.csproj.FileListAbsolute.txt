@@ -1,0 +1,16 @@
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GenerateSAC.exe.config
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GenerateSAC.exe
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GenerateSAC.pdb
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateSAC.csprojResolveAssemblyReference.cache
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateSAC.exe
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GenerateSAC.pdb
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\bin\Debug\GenerateSAC.exe.config
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\bin\Debug\GenerateSAC.exe
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\bin\Debug\GenerateSAC.pdb
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\obj\Debug\GenerateSAC.csprojResolveAssemblyReference.cache
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\obj\Debug\GenerateSAC.exe
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\GenerateSAC\ConsoleApplication1\obj\Debug\GenerateSAC.pdb

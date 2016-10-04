@@ -1,0 +1,12 @@
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\ConsoleRecieveMessagesEven.exe.config
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\ConsoleRecieveMessagesEven.exe
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\ConsoleRecieveMessagesEven.pdb
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\ServiceBus-SharedSettings.dll
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\ServiceBus-SharedSettings.pdb
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\obj\Debug\ConsoleRecieveMessagesEven.csprojResolveAssemblyReference.cache
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\obj\Debug\ConsoleRecieveMessagesEven.exe
+C:\Users\com3mooresm\Documents\Visual Studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleRecieveMessagesEven\obj\Debug\ConsoleRecieveMessagesEven.pdb

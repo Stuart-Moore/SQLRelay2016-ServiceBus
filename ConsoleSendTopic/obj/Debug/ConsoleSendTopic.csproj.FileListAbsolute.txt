@@ -1,0 +1,10 @@
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\ConsoleSendTopic.exe.config
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\ConsoleSendTopic.exe
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\ConsoleSendTopic.pdb
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\ServiceBus-SharedSettings.dll
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\ServiceBus-SharedSettings.pdb
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\obj\Debug\ConsoleSendTopic.csprojResolveAssemblyReference.cache
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\obj\Debug\ConsoleSendTopic.exe
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ConsoleSendTopic\obj\Debug\ConsoleSendTopic.pdb

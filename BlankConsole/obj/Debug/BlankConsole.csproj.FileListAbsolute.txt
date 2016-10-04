@@ -1,0 +1,1 @@
+c:\users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\BlankConsole\bin\Debug\BlankConsole.exe.config

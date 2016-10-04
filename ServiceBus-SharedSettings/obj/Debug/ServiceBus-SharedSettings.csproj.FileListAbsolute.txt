@@ -1,0 +1,4 @@
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ServiceBus-SharedSettings\bin\Debug\ServiceBus-SharedSettings.dll
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ServiceBus-SharedSettings\bin\Debug\ServiceBus-SharedSettings.pdb
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ServiceBus-SharedSettings\obj\Debug\ServiceBus-SharedSettings.dll
+C:\Users\com3mooresm\documents\visual studio 2015\Projects\SQLRelay2016-ServiceBus\ServiceBus-SharedSettings\obj\Debug\ServiceBus-SharedSettings.pdb
